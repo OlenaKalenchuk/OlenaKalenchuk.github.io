@@ -1,0 +1,38 @@
+header {
+    background-color: grey;
+    width: 900px;
+    height: 100px;
+    margin: 10px auto;
+    text-align: center;
+    padding-top: 30px;
+}
+
+div {
+    width: 900px;
+    margin: 10px auto;
+}
+
+aside {
+    background-color: yellow;
+    width: 300px;
+    float: left;
+    height: 300px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+main {
+    background-color: darkgray;
+    padding-top: 30px;
+    height: 300px;
+    text-align: center;
+}
+
+footer {
+    margin: 10px auto;
+    padding-top: 30px;
+    text-align: center;
+    background-color: pink;
+    width: 900px;
+    height: 100px;
+}
